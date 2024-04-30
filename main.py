@@ -1,4 +1,4 @@
-
+basic.show_string("Hello!")
 
 def on_forever():
     pass
